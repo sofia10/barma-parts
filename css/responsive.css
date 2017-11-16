@@ -1,0 +1,1191 @@
+@media  only screen and (max-width: 2561px) and (min-width: 1922px) {}
+@media  only screen and (max-width: 1921px) and (min-width: 1682px) {}
+@media  only screen and (max-width: 1681px) and (min-width: 1538px) {}
+@media  only screen and (max-width: 1537px) and (min-width: 1442px) {
+    #slider > div.owl-wrapper-outer > div > div:nth-child(4) > div > img{
+        left: 2%!important;
+    }
+}
+@media  only screen and (max-width: 1441px) and (min-width: 1367px) {}
+
+
+
+@media only screen and (max-width: 1366px) and (min-width: 1281px) {
+    section.search-area > input[type=submit]{
+        width: 18%!important;
+    }
+    header > section.upper-HD > section.search-area > input[type=search]{
+            width: 92.1%!important;
+    }
+
+    /* ********************************** Our Advantage ********************************** */
+    main > article.ourAdvantage > section.signUp {
+        margin-top: 45px;
+    }
+    /* ********************************** Our Advantage END!!! ********************************** */
+
+    /* ********************************** Slider ********************************** */
+    main > article.ourAdvantage > section.wePromise {
+        margin-top: 50px;
+    }
+
+    main section.Slider-space > div#slider > div.owl-wrapper-outer > div.owl-wrapper > div.owl-item > div.item > img {
+        width: 650px;
+    }
+    /* ********************************** Slider END!!! ********************************** */
+
+    /* ********************************** Search Area ********************************** */
+    header > section.upper-HD > section.search-area > input[type=search] {
+        width: 72.1%;
+    }
+
+    header > section.upper-HD > section.search-area > select {
+        width: 20.9%;
+    }
+    /* ********************************** Search Area END!!! ********************************** */
+
+}
+
+@media only screen and (max-width: 1280px) and (min-width: 1161px) {
+    /* ********************************** Our Advantage ********************************** */
+    main > article.ourAdvantage > section.signUp {
+        margin-top: 45px;
+    }
+
+        main > article.ourAdvantage > section.signUp > h3 {
+            margin: 15px 0 15px 0;
+        }
+
+    main > article.ourAdvantage > section.wePromise > section {
+        width: calc(50% - 110px);
+        padding-right: 12px;
+    }
+    /* ********************************** Our Advantage END!!! ********************************** */
+
+    /* ********************************** Slider ********************************** */
+    main > article.ourAdvantage > section.wePromise {
+        margin-top: 50px;
+    }
+
+    main section.Slider-space > div#slider > div.owl-wrapper-outer > div.owl-wrapper > div.owl-item > div.item > img {
+        width: 550px;
+    }
+    /* ********************************** Slider END!!! ********************************** */
+
+    /* ********************************** Search Area ********************************** */
+    header > section.upper-HD > section.search-area > input[type=search] {
+        width: 69.1%;
+    }
+
+    header > section.upper-HD > section.search-area > select {
+        width: 23.9%;
+    }
+    /* ********************************** Search Area END!!! **********************************
+
+        /* ********************************** Orderd Status ********************************** */
+    main form section.cont-header > section.aditional {
+        width: 67% !important;
+    }
+    /* ********************************** Orderd Status END!!! ********************************** */
+
+    /* ********************************** Balance ********************************** */
+    main form section.cont-header > section.header-bar {
+        width:50%;
+    }
+    /* ********************************** Balance END!!! ********************************** */
+
+}
+
+
+@media only screen and (max-width: 1280px) {
+    section.search-area > input[type=submit]{
+        width: 18%!important;
+    }
+    header > section.upper-HD > section.search-area > input[type=search]{
+            width: 92.1%!important;
+    }
+
+    main form > section.orders > section.orders-inscroll {
+        width: calc(75% - 36px);
+    }
+
+    main form > section.orders > section.Filer-history {
+        width:24%;
+    }
+
+    main form > section.orders > section.Filer-history > label {
+        width:100%;
+    }
+
+    main form > section.orders > section.Filer-history > label > select {
+        width:40%;
+    }
+
+    main form > ul.persInf {
+        width:100%;
+    }
+
+    body > main > form > section > h2:nth-child(2) {
+        position:absolute;
+        top:610px;
+    }
+
+    main form.Cinf > ul.persInf:last-of-type {
+        margin-top:50px;
+    }
+}
+
+
+@media only screen and (max-width: 1160px) and (min-width: 1025px) {
+    div.examplenew p{
+        margin-left: 23%;
+    }
+    /* ********************************** Our Advantage ********************************** */
+    main > article.ourAdvantage > section.signUp {
+        margin-top: 45px;
+    }
+
+    main > article.ourAdvantage > section.signUp > h2 {
+        font-size:32px;
+    }
+        main > article.ourAdvantage > section.signUp > h3 {
+            margin: 10px 0 10px 0;
+        }
+
+    main > article.ourAdvantage > section.wePromise > section {
+        width: calc(100% - 130px);
+        padding-right: 12px;
+    }
+    /* ********************************** Our Advantage END!!! ********************************** */
+
+    /* ********************************** Slider ********************************** */
+    main > article.ourAdvantage > section.wePromise {
+        margin-top: 30px;
+    }
+
+    main section.Slider-space > div#slider > div.owl-wrapper-outer > div.owl-wrapper > div.owl-item > div.item > img {
+        width: 500px;
+    }
+    /* ********************************** Slider END!!! ********************************** */
+
+    /* ********************************** Search Area ********************************** */
+    header > section.upper-HD > section.search-area {
+        width:49%;
+    }
+
+    header > section.upper-HD > section.search-area > input[type=search] {
+        width: 62.1%;
+    }
+
+    header > section.upper-HD > section.search-area > select {
+        width: 29.9%;
+    }
+    /* ********************************** Search Area END!!! ********************************** */
+
+
+    /* ********************************** Footer ********************************** */
+    footer > section.subFooter > section.FT-left > ul {
+        width:340px;
+    }
+    /* ********************************** Footer END!!! ********************************** */
+
+    /* ********************************** Orderd Status ********************************** */
+    main form section.cont-header > section.aditional {
+        width: 60% !important;
+    }
+    /* ********************************** Orderd Status END!!! ********************************** */
+
+    /* ********************************** Balance ********************************** */
+    main form section.cont-header > section.header-bar {
+        width:50%;
+    }
+    /* ********************************** Balance END!!! ********************************** */
+}
+
+@media only screen and (max-width: 1024px) and (min-width:861px) {
+    /* ********************************** Footer ********************************** */
+    footer > section.subFooter > section.FT-left > a {
+        margin-right: 30px;
+    }
+    div.examplenew p{
+        display: none;
+    }
+    body > header > section.lower-HD > p{
+        display: none;
+    }
+    body > header > p.examplerespo{
+        display: block;
+        margin-left: -58%;
+            font-size: 13px;
+      margin-bottom: 7px;
+                font-family: 'Product Sans Bold';
+    }
+    footer > section.subFooter > section.FT-left > ul {
+        width: 270px;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        -ms-flex-wrap: initial;
+            flex-wrap: initial;
+    }
+
+        footer > section.subFooter > section.FT-left > ul > li {
+            list-style-image: initial !important;
+            padding-left: initial !important;
+            margin: initial !important;
+        }
+    /* ********************************** Footer END!!! ********************************** */
+
+    /* ********************************** Orderd Status ********************************** */
+    main form section.cont-header > section.aditional {
+        width: 60% !important;
+    }
+    /* ********************************** Orderd Status END!!! ********************************** */
+
+    /* ********************************** Balance ********************************** */
+    main form section.cont-header > section.header-bar {
+        width: 50%;
+    }
+    /* ********************************** Balance END!!! ********************************** */
+}
+@media only screen and (max-width: 1000px) and (min-width: 861px){
+    body > header > p.examplerespo{
+        margin-left: -56%;
+    }
+}
+@media only screen and (max-width: 1024px) {
+
+    /* ********************************** Header ********************************** */
+
+
+    /* ********************************** Search Area ********************************** */
+    header {
+        height: 200px;
+    }
+
+        header > section.responsiv-search {
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+        }
+
+        header > section.upper-HD > section.search-area {
+            display: none;
+        }
+
+        header > section.responsiv-search > section.search-area {
+            width: 100% !important;
+        }
+    /* ********************************** Search Area END!!! ********************************** */
+    /* ********************************** Header END!!! ********************************** */
+
+    /* ********************************** Our Advantage ********************************** */
+
+    main > article.ourAdvantage {
+        width: 100%;
+        height: 520px;
+    }
+
+        main > article.ourAdvantage > section.signUp {
+            margin-top: 20px;
+        }
+
+            main > article.ourAdvantage > section.signUp > h2 {
+                font-size: 40px;
+            }
+
+            main > article.ourAdvantage > section.signUp > h3 {
+                margin: 10px 0 10px 0;
+            }
+
+        main > article.ourAdvantage > section.wePromise > section {
+            width: calc(100% - 130px);
+            padding-right: 12px;
+            margin-bottom: 20px;
+        }
+
+        main > article.ourAdvantage > section.wePromise {
+            margin-top: 10px;
+        }
+    /* ********************************** Our Advantage END!!! ********************************** */
+
+    /* ********************************** Slider ********************************** */
+    main section.Slider-space {
+        width: calc(100% + 25px);
+        margin-left: -25px;
+        height: 600px;
+    }
+
+        main section.Slider-space > div#slider > div.owl-wrapper-outer {
+            margin-left: initial;
+        }
+
+            main section.Slider-space > div#slider > div.owl-wrapper-outer > div.owl-wrapper > div.owl-item > div.item > aside.slider-info {
+                margin-left: 45px;
+            }
+
+            main section.Slider-space > div#slider > div.owl-wrapper-outer > div.owl-wrapper > div.owl-item > div.item > img {
+                width: auto;
+            }
+    /* ********************************** Slider END!!! ********************************** */
+
+
+
+    /* ********************************** Password Recovery ********************************** */
+    main form > ul.pswrdRec {
+        width: 100%;
+    }
+
+        main form > ul.pswrdRec > li {
+            width: 100%;
+        }
+    /* ********************************** Password Recovery END!!! ********************************** */
+
+    /* ********************************** Confirm Registration ********************************** */
+
+    main form > ul.regConf {
+        width: 100%;
+    }
+
+        main form > ul.regConf > li {
+            width: 100%;
+        }
+
+    /* ********************************** Confirm Registration END!!! ********************************** */
+    main form > ul.comp-reg {
+        width: 100%;
+    }
+
+        main form > ul.comp-reg > li {
+            width: 100%;
+        }
+
+    /* ********************************** Cart ********************************** */
+    main form > section.Del-Options {
+        height: 130px;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+    }
+
+        main form > section.Del-Options > section:first-child {
+            width: 100%;
+        }
+    /* ********************************** Cart END!!! ********************************** */
+
+    a.excel {
+        display: none;
+    }
+
+    main form > section.Result-Bar-container > section.Result-Bar > span,
+    main form > section.Result-Bar-container > section.Result-Bar > ul > li:not(:first-child) {
+        display:none;
+    }
+
+    main form > section.Result-Bar-container > section.Result-Bar > ul > li {
+        width:100% !important;
+    }
+
+
+    main form > section.orders {
+        -webkit-box-orient:vertical;
+        -webkit-box-direction:reverse;
+            -ms-flex-direction:column-reverse;
+                flex-direction:column-reverse;
+    }
+
+    main form > section.orders > section.orders-inscroll {
+        width: 100%;
+    }
+
+    main form > section.orders > section.Filer-history {
+        width:100%;
+        margin-bottom:10px;
+    }
+
+    main form > section.orders > section.Filer-history > label {
+        width:100%;
+    }
+
+    main form > section.orders > section.Filer-history > label > select {
+        width:40%;
+    }
+}
+@media only screen and (max-width: 954px){
+    body > header > p.examplerespo{
+        margin-left: -53%;
+    }
+  main .innerimg img{
+    width: 300px;
+    height: auto;
+  }
+}
+@media only screen and (max-width: 860px) {
+    section.search-area > input[type=search]{
+            width: 87.1%!important;
+    }
+    body > header > section.lower-HD > p{
+        display: none;
+    }
+
+    div.examplenew p{
+        display: none;
+    }
+    body > header > p.examplerespo{
+        display: block;
+        margin-left: -50%;
+            font-size: 13px;
+      margin-bottom: 7px;
+                font-family: 'Product Sans Bold';
+    }
+    section.search-area > input[type=search] {
+        width: 67.1%;
+    }
+
+    section.search-area > select {
+        width: 25.9%;
+    }
+
+    main > article.ourAdvantage > section.signUp > h2 {
+        font-size: 29px;
+    }
+
+    main section.Slider-space > div#slider > div.owl-wrapper-outer > div.owl-wrapper > div.owl-item > div.item > img {
+        width: 500px;
+    }
+
+    /* ********************************** Footer ********************************** */
+    footer > section.subFooter > section.FT-left > a {
+        display: none;
+    }
+
+    footer > section.subFooter > section.FT-left > ul {
+        width: 370px;
+    }
+
+        footer > section.subFooter > section.FT-left > ul > li:nth-child(3) {
+            margin-right: initial;
+        }
+    /* ********************************** Footer END!!! ********************************** */
+
+    /* ********************************** Orderd Status ********************************** */
+    main form section.cont-header {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        -webkit-box-align: initial;
+            -ms-flex-align: initial;
+                align-items: initial;
+    }
+
+        main form section.cont-header > section.aditional {
+            -webkit-box-orient: vertical;
+            -webkit-box-direction: normal;
+                -ms-flex-direction: column;
+                    flex-direction: column;
+        }
+
+            main form section.cont-header > section.aditional > label {
+                width: 100%;
+                margin-right: initial;
+                -webkit-box-align: initial;
+                    -ms-flex-align: initial;
+                        align-items: initial;
+                -webkit-box-orient: vertical;
+                -webkit-box-direction: normal;
+                    -ms-flex-direction: column;
+                        flex-direction: column;
+            }
+
+                main form section.cont-header > section.aditional > label > select,
+                main form section.cont-header > section.aditional > label > input {
+                    width: 100%;
+                    margin-left: initial;
+                }
+
+        main form section.cont-header > section.aditional {
+            width: 100% !important;
+            height: 200px !important;
+            -webkit-box-pack: justify;
+                -ms-flex-pack: justify;
+                    justify-content: space-between;
+        }
+
+    /* ********************************** Orderd Status END!!! ********************************** */
+
+    /* ********************************** QUOTE ********************************** */
+    main form > section.AddClearEXL > section:first-of-type {
+        display: none;
+    }
+
+    main form > section.AddClearEXL > section:last-of-type > a:first-child,
+    main form > section.AddClearEXL > section:last-of-type > a:last-child {
+        margin: initial;
+    }
+    /* ********************************** QUOTE END!!! ********************************** */
+
+    /* ********************************** Balance ********************************** */
+    main form section.cont-header > section.header-bar {
+        width: 100%;
+        height: 200px;
+        -webkit-box-pack: justify;
+            -ms-flex-pack: justify;
+                justify-content: space-between;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+    }
+
+        main form section.cont-header > section.header-bar > label {
+            -webkit-box-orient: vertical;
+            -webkit-box-direction: normal;
+                -ms-flex-direction: column;
+                    flex-direction: column;
+            -webkit-box-align: initial;
+                -ms-flex-align: initial;
+                    align-items: initial;
+        }
+
+            main form section.cont-header > section.header-bar > label > select {
+                margin-left: initial;
+            }
+
+        main form section.cont-header > section.header-bar > a {
+            -ms-flex-item-align: start;
+                align-self: flex-start;
+        }
+    /* ********************************** Balance END!!! ********************************** */
+
+}
+
+@media only screen and (max-width: 700px) {
+    header > section.upper-HD > section.user-corner > img{
+        display: none;
+     }
+    header > section.upper-HD > section.user-corner {
+        min-width: 50px;
+        
+    }
+
+    header > section.upper-HD > section.user-corner > span {
+            display: none;
+        }
+
+
+    main > article.ourAdvantage {
+        height: 550px;
+    }
+
+    /* ********************************** Footer ********************************** */
+
+    footer {
+        height: 110px;
+        padding: 10px 0;
+    }
+
+        footer > section.subFooter {
+            -webkit-box-pack: justify;
+                -ms-flex-pack: justify;
+                    justify-content: space-between;
+            -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+            -webkit-box-orient: vertical;
+            -webkit-box-direction: normal;
+                -ms-flex-direction: column;
+                    flex-direction: column;
+        }
+
+            footer > section.subFooter > section.FT-right {
+                -webkit-box-align: initial;
+                    -ms-flex-align: initial;
+                        align-items: initial;
+            }
+    /* ********************************** Footer END!!! ********************************** */
+
+    /* ********************************** Cart ********************************** */
+    main form > section.Del-Options > section:first-child {
+        -ms-flex-wrap:wrap;
+            flex-wrap:wrap;
+        position:relative;
+        -webkit-box-pack:justify;
+            -ms-flex-pack:justify;
+                justify-content:space-between;
+    }
+    main form > section.Del-Options > section:first-child > label {
+        width:calc((100% / 3) - 15px);
+        margin-right:initial;
+    }
+
+    main form > section.Del-Options > section:first-child > a {
+        position:absolute;
+        bottom:-60px;
+    }
+    /* ********************************** Cart END!!! ********************************** */
+
+    /* ********************************** Orderd Status ********************************** */
+    main form > section.order-detail > section.order-detailHD > ul > li:not(:first-child) {
+        display:none;
+    }
+
+    main form > section.order-detail > section.order-detailHD > ul > li {
+        border:initial;
+        padding:initial;
+    }
+    /* ********************************** Orderd Status END!!! ********************************** */
+
+}
+@media only screen and (max-width: 760px) {
+  main .barmanews .newsinfo p{
+    line-height: 12px;
+    font-size: 10px;
+  }
+}
+@media only screen and (max-width: 600px) {
+    header > section.lower-HD > section.lower-HD-rightCorner > ul.lang-bar{
+        margin-left: 50%;
+    }
+    header > section.lower-HD > section.lower-HD-rightCorner > span{
+        left: 98%;
+    }
+     body > header > section.upper-HD > section.balancerespo{
+        display: block;
+     }
+     header > section.lower-HD > section.lower-HD-rightCorner > section.balance{
+        display: none;
+     }
+  
+    main .barmanews{
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+          -ms-flex-direction: column;
+              flex-direction: column;
+    }
+    main  div.newsinfo{
+      margin-top: 25px;
+      margin-bottom: 30px;
+    }
+
+    section.search-area > input[type=search] {
+        width: 50.1%;
+    }
+
+    section.search-area > select {
+        width: 41.9%;
+    }
+
+
+
+    main > article.ourAdvantage {
+        height:680px;
+    }
+
+
+    main section.Slider-space {
+        height:500px;
+    }
+
+    main section.Slider-space > div#slider > div.owl-wrapper-outer > div.owl-wrapper > div.owl-item > div.item > aside.slider-info {
+        width:260px;
+        margin-left:20px;
+    }
+
+    main section.Slider-space > div#slider > div.owl-wrapper-outer > div.owl-wrapper > div.owl-item > div.item > aside.slider-info > h2 {
+        font-size:23px;
+    }
+
+    main section.Slider-space > div#slider > div.owl-wrapper-outer > div.owl-wrapper > div.owl-item > div.item > aside.slider-info > p {
+        font-size:13px;
+    }
+
+    main section.Slider-space > div#slider div.owl-pagination {
+        left:15px;
+    }
+
+    main section.Slider-space > div#slider > div.owl-wrapper-outer > div.owl-wrapper > div.owl-item > div.item > img {
+        width:350px;
+    }
+
+    main form > ul.persInf > li {
+        width:100%;
+    }
+
+    main form.Cinf > ul.persInf:last-of-type {
+        height:350px;
+    }
+
+    body > main > form > section > h2:nth-child(2) {
+        top:950px;
+    }
+
+}
+
+@media only screen and (max-width: 500px) {
+     body > header > section.upper-HD > section.balancerespo{
+        display: block;
+    }
+     header > section.lower-HD > section.lower-HD-rightCorner > section.balance{
+        display: none;
+    }
+ 
+    main .innerimg img{
+         width: 90%!important;
+        height: auto;
+     }
+    main form > section.Del-Options {
+        height: 425px;
+     }
+
+    main form > section.Del-Options > section:first-child {
+            height: 320px;
+            -webkit-box-orient: vertical;
+            -webkit-box-direction: normal;
+                -ms-flex-direction: column;
+                    flex-direction: column;
+        }
+
+    main form > section.Del-Options > section:first-child > label {
+                width: 100%;
+            }
+
+            main form > section.Del-Options > section:first-child > a {
+                position: initial;
+                width: 100%;
+                padding-left: initial;
+                padding-right: initial;
+                text-align: center;
+            }
+
+    main > form > section.Del-Options > section:nth-child(2) {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        width: 100%;
+        height: 90px;
+        -webkit-box-pack: justify;
+            -ms-flex-pack: justify;
+                justify-content: space-between;
+    }
+
+    main form > section.Del-Options > section:last-child > a {
+        width: 100%;
+        padding-left: initial;
+        padding-right: initial;
+        display: block;
+        margin-right: initial !important;
+        text-align: center;
+    }
+
+    /* ********************************** QUOTE ********************************** */
+    main form > section.AddClearEXL > section:last-of-type {
+        width: 100%;
+        height: 130px;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: justify;
+            -ms-flex-pack: justify;
+                justify-content: space-between;
+    }
+
+        main form > section.AddClearEXL > section:last-of-type > a {
+            padding-left: initial;
+            padding-right: initial;
+            width: 100%;
+            text-align: center;
+        }
+    /* ********************************** QUOTE END!!! ********************************** */
+
+    /* ********************************** Balance ********************************** */
+
+
+        main form section.cont-header > section.header-bar > label {
+            width:100%;
+        }
+
+            main form section.cont-header > section.header-bar > label > select {
+                width:100%;
+            }
+
+
+
+        main form section.cont-header > section.header-bar > a {
+            width:100%;
+            padding-left:initial;
+            padding-right:initial;
+            text-align:center;
+        }
+    /* ********************************** Balance END!!! ********************************** */
+
+    main form section.cont-header > section.aditional {
+        height:200px !important;
+    }
+
+
+    main form > section.orders > section.Filer-history > label {
+        padding-left:initial !important;
+        margin-right:initial !important;
+        -webkit-box-align:initial !important;
+            -ms-flex-align:initial !important;
+                align-items:initial !important;
+        -webkit-box-orient:vertical !important;
+        -webkit-box-direction:normal !important;
+            -ms-flex-direction:column !important;
+                flex-direction:column !important;
+    }
+
+    main form > section.orders > section.Filer-history > label > input.datefilter,
+    main form > section.orders > section.Filer-history > label > select,
+    main form > section.orders > section.Filer-history > label > input {
+        width:100%;
+        margin-left:initial;
+    }
+
+    main form.Cinf > a,
+    main form > ul.regConf > li:nth-child(3) > a,
+    main form > ul.pswrdRec > li:nth-child(2) > a,
+    main form > section.orders > section.Filer-history > a {
+        padding-left:initial;
+        padding-right:initial;
+        width:100%;
+        text-align:center;
+        margin-left:initial !important;
+    }
+
+    main form.Cinf > a {
+        margin:5px 0;
+    }
+}
+
+@media only screen and (max-width: 420px) {
+    header > section.upper-HD > section.user-corner > section.user-options{
+            width: 244px;
+    }
+    .balancerespo{
+            margin-left: 10px;
+    margin-right: -30px;
+    height: 60px;
+    }
+    header > section.lower-HD > section.lower-HD-rightCorner > ul.lang-bar{
+        margin-left: 18%!important;
+    }
+    body > header > p.examplerespo{
+        margin-left: initial!important;
+        font-size: 11px;
+    }
+    main .applicationform form{
+        width: 100%;
+    }
+    main .applicationform input[type=text], select, main .applicationform input[type=file], select{
+        width: 100%;
+    }
+    main .applicationform .applicationbutton{
+        width: 87%;
+    }
+
+    header {
+        height:215px;
+        -webkit-transition: .3s;
+        transition:.3s;
+    }
+
+    
+    header > section.lower-HD > nav {
+        width:20px;
+    }
+
+    header > section.lower-HD > nav > p {
+        display:none;
+    }
+
+    header > section.lower-HD > section.lower-HD-rightCorner {
+        width:200px;
+    }
+
+
+    header > section.responsiv-search {
+        height:70px;
+        -webkit-transition: .3s;
+        transition:.3s;
+    }
+
+    header > section.responsiv-search > section.search-area {
+        height:55px;
+        -ms-flex-wrap:wrap;
+            flex-wrap:wrap;
+        -webkit-box-align:initial;
+            -ms-flex-align:initial;
+                align-items:initial;
+        -webkit-transition: .3s;
+        transition:.3s;
+    }
+
+    section.search-area > input[type=search] {
+        width:100%;
+        height:100%;
+        box-sizing:border-box;
+        border-bottom:solid 1px #EEEEEE;
+        -webkit-transition: .3s;
+        transition:.3s;
+    }
+
+    section.search-area > select {
+        width:80%;
+        height:0%;
+        -webkit-transition: .3s;
+        transition:.3s;
+    }
+
+    section.search-area > input[type=submit] {
+        width:20%;
+        height:0%;
+        -webkit-transition: .3s;
+        transition:.3s;
+    }
+
+
+
+
+
+    main > article.ourAdvantage > section.signUp > h2 {
+        font-size:21px;
+    }
+
+    main > article.ourAdvantage > section.signUp > h3 {
+        font-size:12px;
+    }
+
+    main > article.ourAdvantage > section.wePromise > section > h4 {
+        font-size:13px;
+    }
+
+    main > article.ourAdvantage > section.wePromise > section > p {
+        font-size:13px;
+    }
+
+
+    main section.Slider-space > div#slider > div.owl-wrapper-outer > div.owl-wrapper > div.owl-item > div.item > img {
+        width:280px;
+    }
+
+    /* ********************************** Footer ********************************** */
+    footer {
+        height:150px;
+    }
+
+    footer > section.subFooter {
+        height:130px;
+        -ms-flex-wrap:initial;
+            flex-wrap:initial;
+        padding:10px 0;
+    }
+
+    footer > section.subFooter > section.FT-left > a {
+        margin-right: 30px;
+    }
+
+    footer > section.subFooter > section.FT-left > ul {
+        width: 270px;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        -ms-flex-wrap: initial !important;
+            flex-wrap: initial !important;
+    }
+
+        footer > section.subFooter > section.FT-left > ul > li {
+            list-style-image: initial !important;
+            padding-left: initial !important;
+            margin: initial !important;
+        }
+    /* ********************************** Footer END!!! ********************************** */
+
+    /* ********************************** Orderd Status ********************************** */
+    .oder-active {
+        height:40px !important;
+    }
+
+    main form > section.order-detail > section.order-detailHD {
+        -webkit-box-orient:vertical;
+        -webkit-box-direction:normal;
+            -ms-flex-direction:column;
+                flex-direction:column;
+        -webkit-box-align:initial;
+            -ms-flex-align:initial;
+                align-items:initial;
+    }
+
+    main form > section.order-detail > section.order-detailHD > ul {
+        padding-left:29px;
+    }
+
+    /* ********************************** Orderd Status END!!! ********************************** */
+
+
+    main form > section.AddClear {
+        height:85px;
+        display:-webkit-box;
+        display:-ms-flexbox;
+        display:flex;
+        -webkit-box-orient:vertical;
+        -webkit-box-direction:normal;
+            -ms-flex-direction:column;
+                flex-direction:column;
+        -webkit-box-pack:justify;
+            -ms-flex-pack:justify;
+                justify-content:space-between;
+    }
+
+    main form > section.AddClear > a {
+        width:100%;
+        padding-left:initial;
+        padding-right:initial;
+        text-align:center;
+        margin-left:initial !important;
+    }
+
+
+}
+@media only screen and (max-width: 768px) {
+  main .newsinner{
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  body > main > div.newsinner > div.innerinfo{
+    margin-top: 15px;
+  }
+  main .innerimg img{
+    width: 400px;
+    height: auto;
+  }
+}
+
+@media only screen and (max-width: 720px) {
+    body > header > p.examplerespo{
+        margin-left: -40%!important;
+    }
+    main .client img{
+        width: 98%;
+    }
+}
+@media only screen and (max-width: 650px) {
+    body > header > p.examplerespo{
+        margin-left: -33%!important;
+    }
+}
+@media only screen and (max-width: 550px) {
+    body > header > section.upper-HD > section.balancerespo{
+        display: block;
+     }
+     header > section.lower-HD > section.lower-HD-rightCorner > section.balance{
+        display: none;
+     }
+  
+    body > header > p.examplerespo{
+        margin-left: -22%!important;
+    }
+}
+@media only screen and (max-width: 490px) {
+    header > section.lower-HD > section.lower-HD-rightCorner > ul.lang-bar{
+            margin-left: 40%;
+    }
+    body > header > p.examplerespo{
+        margin-left: -12%!important;
+    }
+}
+@media only screen and (max-width: 1685px){
+    main div.responsivestvis{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+    }
+}
+
+@media only screen and (max-width: 1059px) {
+    main .spareparts{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+
+    }
+    main .spare .spareparts .leftspare{
+        width: 100%!important;
+    }
+    main .spare .spareparts .rightspare{
+        width: 100%!important;
+    }
+}
+
+@media only screen and (max-width: 750px) {
+        main .rightspare .transmission{
+            -webkit-box-orient: vertical;
+            -webkit-box-direction: normal;
+                -ms-flex-direction: column;
+                    flex-direction: column;
+        }
+        main .spare .tierslogos{
+            width: 100%!important;
+            height: auto!important;
+        }
+        main .spare .tierslogos img{
+            margin-bottom: 15px;
+        }
+        main .spare .batterieslogos{
+            width: 100%!important;
+            height: auto!important;
+        }
+        body > main > div.spare > div > div > img{
+            width: 100%;
+        }
+        main .applicationform .applicationbutton{
+            width: 100%;
+            height: auto;
+        }
+}
+
+@media only screen and (max-width: 788px){
+    main .salescontract{
+        width: 100%;
+        height: auto;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+    }
+    body > header > p.examplerespo{
+        margin-left: -45%;
+    }
+}
+@media only screen and (max-width: 1373px){
+    main .spare .spareparts{
+        display: block;
+    }
+    main .spare .spareparts .rightspare{
+        width: 100%!important;
+    }
+    main .spare .spareparts .leftspare{
+        width: 100%!important;
+    }
+}
